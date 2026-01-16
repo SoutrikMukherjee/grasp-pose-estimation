@@ -213,7 +213,7 @@ Harrisburg University of Science and Technology
 
 ## 📝 License
 
-This project is created for educational and portfolio purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
