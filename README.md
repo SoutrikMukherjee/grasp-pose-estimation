@@ -2,7 +2,7 @@
 
 **Author:** Soutrik Mukherjee  
 **Institution:** GRASP Laboratory, University of Pennsylvania  
-**Project Rating:** ⭐ 9/10 for ML Robotics Internships
+**Project Rating:** ⭐ 9/10 
 
 ## 🎯 Project Overview
 
