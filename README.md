@@ -207,7 +207,7 @@ The project includes a template for ROS 2 integration:
 **Soutrik Mukherjee**
 M.S. Computer Science (AI & Scientific Computing)
 Harrisburg University of Science and Technology
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [GitHub](https://github.com/YOUR-USERNAME) | soutrik@example.com
+[LinkedIn](https://linkedin.com/in/Soutrik-Mukherjee) | [GitHub](https://github.com/SoutrikMukherjee) | soutrik@seas.upenn.edu
 
 ---
 
