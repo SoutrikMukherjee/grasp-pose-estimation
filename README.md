@@ -185,7 +185,7 @@ The project includes a template for ROS 2 integration:
 3. **Dex-Net 2.0**: Mahler et al., RSS 2017
 4. **GraspNet-1Billion**: Fang et al., CVPR 2020
 
-## 🏆 Why This Project Is Strong for Internships
+## 🏆 Why This Project Is Strong for Industry
 
 ### For Robotics Companies (Boston Dynamics, Tesla, Waymo)
 - Demonstrates manipulation expertise
